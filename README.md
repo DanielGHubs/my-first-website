@@ -6,3 +6,7 @@ https://colab.research.google.com/drive/1HINBdVJB9400FrtfhVu5rJC8llGyJnDT?usp=sh
 
 personal
 https://colab.research.google.com/drive/1vZ3eI-V_7pDHfNsELc7-kaoF313kiC7d?usp=sharing
+
+toast code
+https://colab.research.google.com/drive/1Z7mGflYsyuttC5LseN0WWAZx4kXDzwsc#scrollTo=Ym4NOo7vH1zU
+
