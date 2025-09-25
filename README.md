@@ -10,3 +10,5 @@ https://colab.research.google.com/drive/1vZ3eI-V_7pDHfNsELc7-kaoF313kiC7d?usp=sh
 toast code
 https://colab.research.google.com/drive/1Z7mGflYsyuttC5LseN0WWAZx4kXDzwsc#scrollTo=Ym4NOo7vH1zU
 
+Gamma Presentation 
+https://revolutionizing-soil-hea-modn9r6.gamma.site/
