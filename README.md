@@ -12,3 +12,7 @@ https://colab.research.google.com/drive/1Z7mGflYsyuttC5LseN0WWAZx4kXDzwsc#scroll
 
 Gamma Presentation 
 https://revolutionizing-soil-hea-modn9r6.gamma.site/
+
+TVSZ code
+https://colab.research.google.com/drive/1VIv_m0GKP8ApfQzNpJ0_ulRweGrZk6jE?usp=sharing
+
